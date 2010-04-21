@@ -2,10 +2,6 @@
 
 A plugin which adds favicon to base layout.
 
-== Authors
-
-Yuki Kita
-
 == Installation and Setup
 
 1. Make sure the plugin is installed to +vendor/plugins/redmine_favicon+
