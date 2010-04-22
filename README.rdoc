@@ -1,6 +1,6 @@
 = Redmine favicon
 
-A plugin which adds favicon to base layout.
+Redmine favicon is a tiny plugin for Redmine which adds favicon to its base layout.
 
 == Installation and Setup
 
